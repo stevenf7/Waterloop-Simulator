@@ -1,0 +1,28 @@
+type: app
+
+project:
+  name: hardware-in-loop-2019
+  version: 0.0.1
+  author: Steven Feng
+  keywords:
+  - wio
+  - app
+  compile_options:
+    wio_version: 0.6.2
+    default_target: cosa
+
+targets:
+  cosa:
+    src: src
+    platform: avr
+    framework: cosa
+    board: uno
+
+dependencies:
+  can-packet:
+    version: 1.0.1
+  mcp2515-cosa:
+    version: 1.0.0
+  mcp2515-driver:
+    version: 1.0.0
+

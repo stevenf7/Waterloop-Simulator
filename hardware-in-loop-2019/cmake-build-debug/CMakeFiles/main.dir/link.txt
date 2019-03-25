@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/main.dir/src/data_model/motionGraphClass.cpp.o CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/test.cpp.o  -o main 

@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/d/waterloop/hardware-in-loop-2019
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/d/waterloop/hardware-in-loop-2019/cmake-build-debug

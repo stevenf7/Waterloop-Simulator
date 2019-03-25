@@ -1,0 +1,5 @@
+/mnt/d/waterloop/hardware-in-loop-2019/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/waterloop/hardware-in-loop-2019/cmake-build-debug/CMakeFiles/WIO_UPDATE.dir
+/mnt/d/waterloop/hardware-in-loop-2019/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/waterloop/hardware-in-loop-2019/cmake-build-debug/CMakeFiles/main.dir
+/mnt/d/waterloop/hardware-in-loop-2019/cmake-build-debug/CMakeFiles/WIO_INSTALL.dir

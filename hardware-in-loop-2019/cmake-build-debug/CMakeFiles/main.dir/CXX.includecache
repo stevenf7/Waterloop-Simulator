@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/waterloop/hardware-in-loop-2019/src/data_model/motionGraphClass.cpp
+cmath
+-
+motionGraphClass.hpp
+/mnt/d/waterloop/hardware-in-loop-2019/src/data_model/motionGraphClass.hpp
+motionGraphDef.hpp
+/mnt/d/waterloop/hardware-in-loop-2019/src/data_model/motionGraphDef.hpp
+
+/mnt/d/waterloop/hardware-in-loop-2019/src/data_model/motionGraphClass.hpp
+
+/mnt/d/waterloop/hardware-in-loop-2019/src/data_model/motionGraphDef.hpp
+
+/mnt/d/waterloop/hardware-in-loop-2019/src/main.cpp
+iostream
+-
+data_model/motionGraphClass.hpp
+/mnt/d/waterloop/hardware-in-loop-2019/src/data_model/motionGraphClass.hpp
+Cosa/Trace.hh
+/mnt/d/waterloop/hardware-in-loop-2019/src/Cosa/Trace.hh
+Cosa/UART.hh
+/mnt/d/waterloop/hardware-in-loop-2019/src/Cosa/UART.hh
+
+/mnt/d/waterloop/hardware-in-loop-2019/src/test.cpp
+iostream
+-
+data_model/motionGraphClass.hpp
+/mnt/d/waterloop/hardware-in-loop-2019/src/data_model/motionGraphClass.hpp
+
